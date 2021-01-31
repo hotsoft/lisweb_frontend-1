@@ -7343,6 +7343,22 @@ ember-basic-dropdown@3.0.11, ember-basic-dropdown@^3.0.11:
     ember-maybe-in-element "^2.0.1"
     ember-truth-helpers "^2.1.0 || ^3.0.0"
 
+ember-basic-dropdown@^3.0.12:
+  version "3.0.12"
+  resolved "https://registry.yarnpkg.com/ember-basic-dropdown/-/ember-basic-dropdown-3.0.12.tgz#dc9eb1098cec6e1af27402c62cc3c3402e6d5824"
+  integrity sha512-W67UtAWaANCEwwHYTiagfLRlAcn6dC6f0NO0DpJRIZK9iflBzV6nSIkbCuN1lwf6JFRbEGoFj2bV+io0maMCsg==
+  dependencies:
+    "@ember/render-modifiers" "^1.0.2"
+    "@glimmer/component" "^1.0.1"
+    "@glimmer/tracking" "^1.0.1"
+    ember-cli-babel "^7.21.0"
+    ember-cli-htmlbars "^5.2.0"
+    ember-cli-typescript "^3.1.2"
+    ember-element-helper "^0.2.0"
+    ember-maybe-in-element "^2.0.1"
+    ember-style-modifier "^0.6.0"
+    ember-truth-helpers "^2.1.0 || ^3.0.0"
+
 ember-changeset-validations@3.10.3, ember-changeset-validations@^3.10.3:
   version "3.10.3"
   resolved "https://registry.yarnpkg.com/ember-changeset-validations/-/ember-changeset-validations-3.10.3.tgz#b767e23307c0e97c92b78b9da90248d90c28aa97"
@@ -8492,6 +8508,23 @@ ember-power-select@4.1.0, ember-power-select@^4.0.0:
     ember-text-measurer "^0.6.0"
     ember-truth-helpers "^2.1.0 || ^3.0.0"
 
+ember-power-select@4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/ember-power-select/-/ember-power-select-4.1.2.tgz#f19306db7612b440861f23b12a35e4484d3a4203"
+  integrity sha512-Bhr3Gfq1emXbs82+trjiqt2K8tUIZMJ82ZJ5yaKgEsptLGrI/3pZ43PP8ziZEjN/Kfor/H0bfL+JP+5oWh612g==
+  dependencies:
+    "@glimmer/component" "^1.0.2"
+    "@glimmer/tracking" "^1.0.2"
+    ember-assign-helper "^0.3.0"
+    ember-basic-dropdown "^3.0.12"
+    ember-cli-babel "^7.22.1"
+    ember-cli-htmlbars "^5.3.1"
+    ember-cli-typescript "^3.1.4"
+    ember-concurrency ">=1.0.0 <3"
+    ember-concurrency-decorators "^2.0.0"
+    ember-text-measurer "^0.6.0"
+    ember-truth-helpers "^2.1.0 || ^3.0.0"
+
 ember-qunit@5.1.1:
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/ember-qunit/-/ember-qunit-5.1.1.tgz#cd192e016889cf768ba661b7b91a2896f5274642"
@@ -8637,6 +8670,14 @@ ember-source@3.23.1:
     resolve "^1.17.0"
     semver "^6.1.1"
     silent-error "^1.1.1"
+
+ember-style-modifier@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/ember-style-modifier/-/ember-style-modifier-0.6.0.tgz#cc5e58db7f6d6662028a7b4e3cf63cf25ba59a8f"
+  integrity sha512-KqW4vyR80l/GMJsuFV+WLqTmGjXKLpoQ/HAmno+oMDrMt13p/5ImrvarQ6lFgXttFnLCxl6YpMY4YX27p1G54g==
+  dependencies:
+    ember-cli-babel "^7.21.0"
+    ember-modifier "^2.1.0"
 
 ember-svg-jar@2.2.3:
   version "2.2.3"
