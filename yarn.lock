@@ -7343,7 +7343,18 @@ ember-basic-dropdown@3.0.11, ember-basic-dropdown@^3.0.11:
     ember-maybe-in-element "^2.0.1"
     ember-truth-helpers "^2.1.0 || ^3.0.0"
 
-ember-changeset-validations@3.10.3, ember-changeset-validations@^3.10.3:
+ember-changeset-validations@3.14.3:
+  version "3.14.3"
+  resolved "https://registry.yarnpkg.com/ember-changeset-validations/-/ember-changeset-validations-3.14.3.tgz#16b836029a2b10098b7be17398dc127ff2c1ef0f"
+  integrity sha512-IkmKn8iFlfHXFFIxlVI886Ff4LXclBUmzapI1K5lpHHj9EtU9i0JzyBfePsOW8KAifat8PpyEfRv4jizGnPSaA==
+  dependencies:
+    ember-changeset "^3.13.5"
+    ember-cli-babel "^7.11.1"
+    ember-cli-htmlbars "^4.0.5"
+    ember-get-config "^0.2.4"
+    ember-validators "^3.0.1"
+
+ember-changeset-validations@^3.10.3:
   version "3.10.3"
   resolved "https://registry.yarnpkg.com/ember-changeset-validations/-/ember-changeset-validations-3.10.3.tgz#b767e23307c0e97c92b78b9da90248d90c28aa97"
   integrity sha512-UPGNosQ2mXLFuGG4GDBOMi2VTtOsNB9gEXnJ4qqqlXrteHF9hZJR8ZtbekF9mmSGojTJJXSXx++hnX1fzB+j7A==
@@ -7363,6 +7374,16 @@ ember-changeset@^3.10.5:
     ember-auto-import "^1.5.2"
     ember-cli-babel "^7.19.0"
     validated-changeset "~0.10.5"
+
+ember-changeset@^3.13.5:
+  version "3.13.5"
+  resolved "https://registry.yarnpkg.com/ember-changeset/-/ember-changeset-3.13.5.tgz#e4cd34a40eae713080a795e4f190b278c9414818"
+  integrity sha512-10Kw8kOfg20o25Rq1mt8ylNL0GgwuneYFy1UpQrirrzypLTC6HGMEmrdglfO3qwsiMynJnjWcVMTW81RXJPphw==
+  dependencies:
+    "@glimmer/tracking" "^1.0.1"
+    ember-auto-import "^1.5.2"
+    ember-cli-babel "^7.19.0"
+    validated-changeset "~0.14.5"
 
 ember-classic-decorator@2.0.0:
   version "2.0.0"
@@ -19168,6 +19189,11 @@ validated-changeset@0.10.5, validated-changeset@~0.10.5:
   version "0.10.5"
   resolved "https://registry.yarnpkg.com/validated-changeset/-/validated-changeset-0.10.5.tgz#6305e88a7cc248e2d9211cecfdc40da9604c1437"
   integrity sha512-mj2SBZXzF92JEfTVjFWaCkiPJkj+sccDap8JYTu/qIQXQt1zm7bZCxpfXU5VAJ/bIpbIxBVBSi4HTqouse0ATg==
+
+validated-changeset@~0.14.5:
+  version "0.14.5"
+  resolved "https://registry.yarnpkg.com/validated-changeset/-/validated-changeset-0.14.5.tgz#377feade30993b9eb7d0a87986483c36c8c71ad6"
+  integrity sha512-QKox80QIjm6I0jO13iVGb9KYpE2XmysaI+zv0wlBJvupUdKnzbtuDQIYm1W893ubl05oKi7TZLB2TNzvBXd1Jg==
 
 validator@^10.0.0:
   version "10.11.0"
