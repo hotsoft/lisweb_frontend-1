@@ -8466,10 +8466,10 @@ ember-one-way-select@^4.0.0:
     ember-cli-htmlbars "^2.0.1"
     ember-invoke-action "^1.5.0"
 
-ember-power-select-with-create@0.8.0:
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/ember-power-select-with-create/-/ember-power-select-with-create-0.8.0.tgz#973e26db8f76c650a6d166ea1c03ec00453150be"
-  integrity sha512-9xJTgaju4NyADJb6RjkUpIhLFx/5ORmAK3R/zuTyc2ILyOY7+SvDw8LuFNTnOVAFOcT3g+TJKEL8nzBuwnEi7g==
+ember-power-select-with-create@0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/ember-power-select-with-create/-/ember-power-select-with-create-0.9.0.tgz#83ed037987dc5824f2bf702d278d055932ec1c87"
+  integrity sha512-AQW7N+vZHTojfKSqp/L3HlB81SW3AJtvFJYpdwHqoIcmTsW0BGfXH2z/GVWBUky6fPQLCngKs2Uv5PmpbboVYQ==
   dependencies:
     ember-cli-babel "^7.20.0"
     ember-cli-htmlbars "^5.0.0"
