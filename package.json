@@ -54,7 +54,7 @@
     "extends": "plugin:unicorn/recommended"
   },
   "dependencies": {
-    "blakejs": "1.1.0",
+    "blakejs": "1.1.1",
     "bulma": "0.9.1",
     "dompurify": "2.2.6",
     "hammerjs": "2.0.8",
